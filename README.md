@@ -1,6 +1,6 @@
 # Network Monitor
 
-Ce projet contient un script serveur en C qui écoute les connexions réseau sur un port spécifique pour surveiller les activités suspectes. Il comprend également un script client en Python qui peut envoyer des données au serveur pour tester la fonctionnalité de surveillance.
+Ce projet contient un script serveur en C qui écoute les connexions réseau sur un port spécifique pour surveiller les activités suspectes. Il comprend également un script client en Python dans ce README.md qui peut envoyer des données au serveur pour tester la fonctionnalité de surveillance.
 
 ## Fonctionnalités
 
